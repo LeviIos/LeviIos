@@ -46,7 +46,7 @@
 </div>
 
 ### 🖥️ Язык программирования который я знаю:
-   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" title="Swift" alt="Swift" width="40" height="40"/>
+   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" title="Swift" alt="Swift" width="50" height="50"/>
 
 ### Тестовые артефакты:
 ### 1.Теория тестирования.
