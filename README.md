@@ -8,7 +8,7 @@
 
  📫 Как связаться со мной: [![Gmail](https://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:aandreydoroshev1995@gmail.com) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](malito:aandreydoroshev1995@mail.ru) 
  
- Мое резюме [Резюме](https://github.com/LeviIos/My-CV-/blob/main/Резюме%20Дорошев%20Андрей%20-2.pdf)
+ Мое резюме [Резюме](https://github.com/LeviIos/MyCV/blob/main/Дорошев%20Андрей%20Александрович.pdf)
 ### 🤝 Социальные сети:
 
   <div id="badges">
