@@ -9,7 +9,7 @@
 Как связаться со мной: [![Gmail](https://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:aandreydoroshev1995@gmail.com) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](malito:aandreydoroshev1995@mail.ru) 
  
 ### Мое резюме 
-Для ознакомления с моим профессиональным опытом вы можете посмотреть [Резюме](https://github.com/LeviIos/MyCV/blob/main/DoroshevAndrey.pdf)
+Для ознакомления с моим профессиональным опытом вы можете посмотреть [Резюме](https://drive.google.com/file/d/1xDV5BiR3BFJnZNcZuydHv3eoSS2Hx6o8/view?usp=sharing)
 
 Сертификат об успешном окончании курса [Сертификат](https://drive.google.com/file/d/1SF8RyGDxL0bnAtuJeBCDx8Q7UAUlcsJ8/view?usp=sharing)
 ###  Социальные сети:
