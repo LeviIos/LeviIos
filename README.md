@@ -64,7 +64,6 @@
 </ul>
 </div>
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeviIos/LeviIos&title=Visitors)
 ![Profile views](https://komarev.com/ghpvc/?username=LeviIos&color=blue)
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/levi_acke) --!>
