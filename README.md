@@ -8,7 +8,8 @@
 
  📫 Как связаться со мной: [![Gmail](https://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:aandreydoroshev1995@gmail.com) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](malito:aandreydoroshev1995@mail.ru) 
  
- Мое резюме [Резюме](https://github.com/LeviIos/MyCV/blob/main/DoroshevAndrey.pdf)
+### Мое резюме 
+Для ознакомления с моим профессиональным опытом вы можете посмотреть [Резюме](https://github.com/LeviIos/MyCV/blob/main/DoroshevAndrey.pdf)
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -50,35 +51,20 @@
    <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" title="Swift" alt="Swift" width="50" height="50"/>
 
 ### Тестовые артефакты:
-### 1.Теория тестирования.
-<a href="https://github.com/LeviIos/Theory">Ссылка</a>
+<div>
+<ul>
+  <li><a href="https://github.com/LeviIos/Theory">Теория тестирования программного обеспеченияго</a> – анализ приложения на основе его описания, методы, типы и уровни тестирования</li>
+  <li><a href="https://github.com/LeviIos/Design">Тест-дизайн</a> – эквивалентное разбиение и анализ граничных значений, попарное тестирование, таблица принятия решений</li>
+  <li><a href="https://github.com/LeviIos/Docs">Тестовая документация</a> – работа с QASE, Youtrack</li>
+  <li><a href="https://github.com/LeviIos/Web">Тестирование веб-приложений</a> – через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman </li>
+  <li><a href="https://github.com/LeviIos/Api">Тестирование API</a> – REST и SOAP через Postman</li>
+  <li><a href="https://github.com/LeviIos/Database">Работа с базами данных</a> – MySQL через DBeaver (SELECT, JOIN-запросы) MongoDB</li>
+  <li><a href="https://github.com/LeviIos/Mobile">Тестирование мобильных приложений</a> – создание документации, тестирование с помощью Android Studio через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman</li>
+  <li><a href="https://github.com/LeviIos/git_bash">Bash</a> – команды bash через нативный терминал на macOS</li>
+</ul>
+</div>
 
----
-### 2.Техники тест-дизайна.
-<a href="https://github.com/LeviIos/Design">Ссылка</a>
-
----
-### 3.Тестовая документация.
-<a href="https://github.com/LeviIos/Docs">Ссылка</a>
----
-
-### 4.Тестирование API.
-<a href="https://github.com/LeviIos/Api">Ссылка</a>
----
-
-### 5.Работа с базами данных.
-<a href="https://github.com/LeviIos/Database">Ссылка</a>
----
-
-### 6.Тестирование веб-приложений.
-<a href="https://github.com/LeviIos/Web">Ссылка</a>
----
-
-### 7.Тестирование мобильных приложений.
-<a href="https://github.com/LeviIos/Mobile">Ссылка</a>
----
-
-### 8.Работа с командами в git_bash.
-<a href="https://github.com/LeviIos/git_bash">Ссылка</a>
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeviIos/LeviIos&title=Visitors)
+![Profile views](https://komarev.com/ghpvc/?username=LeviIos&color=blue)
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/levi_acke) --!>
